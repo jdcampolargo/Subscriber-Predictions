@@ -16,7 +16,7 @@ I write a Weekly Memo that I send to hundreds of leaders, entrepreneurs, and inn
 
 This is also the place where I share interesting ideas, personal updates, and the new projects I’m doing/learning more about.
 
-Join hundreds of curious and fascinating people [HERE](https://www.juandavidcampolargo.com/newsletter)
+Join hundreds of curious and fascinating people [HERE].(https://www.juandavidcampolargo.com/newsletter)
 
 
 <!-- TABLE OF CONTENTS -->
