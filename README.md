@@ -16,7 +16,7 @@ I write a Weekly Memo that I send to hundreds of leaders, entrepreneurs, and inn
 
 This is also the place where I share interesting ideas, personal updates, and the new projects I’m doing/learning more about.
 
-Join hundreds of curious and fascinating people [HERE].(https://www.juandavidcampolargo.com/newsletter)
+Join hundreds of curious and fascinating people [HERE](https://www.juandavidcampolargo.com/newsletter).
 
 
 <!-- TABLE OF CONTENTS -->
@@ -34,7 +34,7 @@ Join hundreds of curious and fascinating people [HERE].(https://www.juandavidcam
 <!-- ABOUT THE PROJECT -->
 I developed a machine learning program to predict the growth of my weekly newsletter. I used Linear Regression. 
 
-
+Access it [here](https://deepnote.com/project/687ba457-81df-4c83-9a31-0d12ebc6e0a4#%2Fnotebook.ipynb)
 
 ### Built With
 
